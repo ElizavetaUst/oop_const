@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ru.netology.RadioTest" time="0.04" tests="14" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\Анастасия\Downloads\Telegram Desktop\netology\netology\target\test-classes;C:\Users\Анастасия\Downloads\Telegram Desktop\netology\netology\target\classes;C:\Users\Анастасия\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.1\junit-jupiter-5.8.1.jar;C:\Users\Анастасия\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;C:\Users\Анастасия\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Анастасия\.m2\repository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;C:\Users\Анастасия\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Анастасия\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.1\junit-jupiter-params-5.8.1.jar;C:\Users\Анастасия\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;C:\Users\Анастасия\.m2\repository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;C:\Users\Анастасия\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin"/>
+    <property name="sun.java.command" value="C:\Users\Анастасия\AppData\Local\Temp\surefire16185850694826196823\surefirebooter8744830277342547824.jar C:\Users\Анастасия\AppData\Local\Temp\surefire16185850694826196823 2023-05-29T20-20-59_605-jvmRun1 surefire11984169416433876005tmp surefire_02395182214531211225tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Анастасия\Downloads\Telegram Desktop\netology\netology\target\test-classes;C:\Users\Анастасия\Downloads\Telegram Desktop\netology\netology\target\classes;C:\Users\Анастасия\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.1\junit-jupiter-5.8.1.jar;C:\Users\Анастасия\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;C:\Users\Анастасия\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Анастасия\.m2\repository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;C:\Users\Анастасия\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Анастасия\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.1\junit-jupiter-params-5.8.1.jar;C:\Users\Анастасия\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;C:\Users\Анастасия\.m2\repository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;C:\Users\Анастасия\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Анастасия"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Анастасия\Downloads\Telegram Desktop\netology\netology"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Анастасия\AppData\Local\Temp\surefire16185850694826196823\surefirebooter8744830277342547824.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.11+9-LTS-194"/>
+    <property name="user.name" value="Анастасия"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Анастасия\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\08DE~1\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2022.1.2"/>
+    <property name="java.version" value="11.0.11"/>
+    <property name="user.dir" value="C:\Users\Анастасия\Downloads\Telegram Desktop\netology\netology"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-17.0.1\bin\;C:\Program Files\JavaDevAppl\apache-maven-3.8.6\apache-maven\;C:\Program Files\JavaDevAppl\apache-maven-3.8.6\apache-maven\src\bin\;C:\Program Files\PuTTY\;C:\Program Files\PostgreSQL\15\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Windows\System32;C:\Program Files\JavaDevAppl\apache-maven-3.6.3\;C:\Program Files\Java\jdk-17.0.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022\bin;;C:\Program Files\JetBrains\WebStorm 2022.2\bin;;C:\Program Files\JavaDevAppl\apache-maven-3.6.3\bin\;C:\Program Files\PostgreSQL\15\bin;;C:\Program Files\JetBrains\PhpStorm 2023.1\bin;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.11+9-LTS-194"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="setCurrentRadioStation_correctCurrentRadioStation_newNumberRadioStationLessMin" classname="ru.netology.RadioTest" time="0.03"/>
+  <testcase name="decreaseRadioStation_currentRadioStationEqualsMaxRadioStations_currentStationEqualsMin" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="decreaseVolume_correctCurrentVolumeAfterDecrease_currentVolumeMoreMin" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="getCurrentRadioStation" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="setCurrentRadioStation_correctCurrentRadioStation_newNumberRadioStationMoreMax" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="setCurrentRadioStation_correctCurrentRadioStation_newNumberRadioStationBetweenMinAndMax" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="createRadio_currentMaxRadioStations_createWithCountRadioStations" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="increaseRadioStation_correctCurrentRadioStation_currentStationLessMax" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="increaseVolume_correctCurrentVolumeAfterIncrease_currentVolumeLessMax" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="increaseRadioStation_currentRadioStationEqualsMinRadioStations_currentStationEqualsMax" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="decreaseRadioStation_correctCurrentRadioStation_currentStationMoreMin" classname="ru.netology.RadioTest" time="0.009"/>
+  <testcase name="increaseVolume_correctCurrentVolumeAfterIncrease_currentVolumeMoreMax" classname="ru.netology.RadioTest" time="0"/>
+  <testcase name="getCurrentVolume" classname="ru.netology.RadioTest" time="0.001"/>
+  <testcase name="decreaseVolume_correctCurrentVolumeAfterDecrease_currentVolumeLessMin" classname="ru.netology.RadioTest" time="0"/>
+</testsuite>

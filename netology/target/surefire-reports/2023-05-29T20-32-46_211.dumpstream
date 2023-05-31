@@ -1,0 +1,96 @@
+# Created at 2023-05-29T20:32:46.645
+java.io.FileNotFoundException: C:\Users\?????????\Downloads\Telegram Desktop\netology\netology\target\jacoco.exec (������� �� ������� ����� ��������� ����)
+
+# Created at 2023-05-29T20:32:46.647
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2023-05-29T20:32:46.648
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+
+# Created at 2023-05-29T20:32:46.648
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+
+# Created at 2023-05-29T20:32:46.649
+	at org.jacoco.agent.rt.internal_43f5073.output.FileOutput.openFile(FileOutput.java:68)
+
+# Created at 2023-05-29T20:32:46.649
+	at org.jacoco.agent.rt.internal_43f5073.output.FileOutput.startup(FileOutput.java:50)
+
+# Created at 2023-05-29T20:32:46.649
+	at org.jacoco.agent.rt.internal_43f5073.Agent.startup(Agent.java:129)
+
+# Created at 2023-05-29T20:32:46.650
+	at org.jacoco.agent.rt.internal_43f5073.Agent.getInstance(Agent.java:54)
+
+# Created at 2023-05-29T20:32:46.650
+	at org.jacoco.agent.rt.internal_43f5073.PreMain.premain(PreMain.java:50)
+
+# Created at 2023-05-29T20:32:46.652
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2023-05-29T20:32:46.652
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2023-05-29T20:32:46.652
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2023-05-29T20:32:46.652
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+
+# Created at 2023-05-29T20:32:46.652
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+
+# Created at 2023-05-29T20:32:46.654
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+# Created at 2023-05-29T20:32:46.654
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+
+# Created at 2023-05-29T20:32:46.654
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2023-05-29T20:32:46.655
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2023-05-29T20:32:46.656
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2023-05-29T20:32:46.656
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+
+# Created at 2023-05-29T20:32:46.656
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+
+# Created at 2023-05-29T20:32:46.656
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+# Created at 2023-05-29T20:32:46.656
+Caused by: java.io.FileNotFoundException: C:\Users\?????????\Downloads\Telegram Desktop\netology\netology\target\jacoco.exec (������� �� ������� ����� ��������� ����)
+
+# Created at 2023-05-29T20:32:46.656
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2023-05-29T20:32:46.656
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+
+# Created at 2023-05-29T20:32:46.656
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+
+# Created at 2023-05-29T20:32:46.656
+	at org.jacoco.agent.rt.internal_43f5073.output.FileOutput.openFile(FileOutput.java:68)
+
+# Created at 2023-05-29T20:32:46.656
+	at org.jacoco.agent.rt.internal_43f5073.output.FileOutput.startup(FileOutput.java:50)
+
+# Created at 2023-05-29T20:32:46.656
+	at org.jacoco.agent.rt.internal_43f5073.Agent.startup(Agent.java:129)
+
+# Created at 2023-05-29T20:32:46.660
+	at org.jacoco.agent.rt.internal_43f5073.Agent.getInstance(Agent.java:54)
+
+# Created at 2023-05-29T20:32:46.660
+	at org.jacoco.agent.rt.internal_43f5073.PreMain.premain(PreMain.java:50)
+
+# Created at 2023-05-29T20:32:46.660
+	... 6 more
+
